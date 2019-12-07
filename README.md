@@ -1,8 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# File directory component app.
 
-In the project directory, you can run:
+### Features:
+- Browsing through nested directories
+- Breadcrumbs
 
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![alt text](https://github.com/mintaras/file-directory-component/master/src/chrome-capture.gif "file-directory-component")
